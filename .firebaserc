@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "dashboard-app-b44e2"
+  },
+  "targets": {
+    "dashboard-app-b44e2": {
+      "hosting": {
+        "google-dashboard-app": [
+          "dashboard-app-b44e2"
+        ]
+      }
+    }
   }
 }
